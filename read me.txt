@@ -1,0 +1,12 @@
+20190807-homework:
+    1.把所有的mycat(分库分表)重新配置一遍
+    2.使用springboot+mybatis实现对mycat的增删改查
+    3.自己了解rule.xml中配置的mycat规则
+    4.自行了解读写分离
+    5.祝大家七夕快乐！！！
+
+20190807-homework:
+    1.自己实现读写分配和主从复制
+    2.实现简单的增删改查
+    3.自己研究rule.xml，把所有的规则抄一遍(手抄)
+    4.自行预习elasticSearch
